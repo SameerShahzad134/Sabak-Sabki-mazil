@@ -1,6 +1,5 @@
 package com.example.sabaksabkimanzil;
 
-
 public class StudentRecord
 {
     String name;

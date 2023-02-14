@@ -76,4 +76,3 @@ public class StudentRecordAdapter extends RecyclerView.Adapter<StudentRecordAdap
         }
     }
 }
-
